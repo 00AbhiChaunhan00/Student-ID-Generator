@@ -1,16 +1,63 @@
-# React + Vite
+# 🎓 Student ID Card Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based web application that generates a **Student ID Card** by filling a basic form.  
+The student data is stored and fetched using a **MockAPI** (no backend server required).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🧑‍🎓 Generate student ID card using a simple form
+- 🔁 Store & fetch data using MockAPI
+- 🖥️ Instant ID card generation
+- 🔀 Page navigation using React Router
+- 📱 Responsive design
+- ⚡ No backend or database setup required
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📝 Form Fields
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The ID card is generated using the following basic details:
+
+- Student Name  
+- Roll Number  
+- Course / Branch  
+- Year  
+- Date of Birth  
+- Contact Number  
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- React Router DOM
+- Axios / Fetch API
+- Tailwind CSS
+- MockAPI
+
+---
+
+---
+
+## ⚙️ How It Works
+
+1. User fills the basic student details in the form  
+2. Data is sent to **MockAPI**  
+3. Stored data is fetched from the API  
+4. Student ID card is generated dynamically  
+5. Navigation between pages is handled using **React Router**
+
+---
+
+## 🔗 API Used
+
+- MockAPI (https://mockapi.io)
+
+> This project does not use any backend server or database.
+
+---
+
+
+
