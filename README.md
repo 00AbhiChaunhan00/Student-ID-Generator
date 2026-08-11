@@ -67,7 +67,7 @@ The ID card is generated using the following basic details:
 
 **Skills**
 
-`SQL` • `Excel` • `Python` • `Pandas` • `Data Analysis` • `Dashboard Development` • `Business Intelligence`
+`SQL` • `Excel` • `Python` • `Pandas` • `Data Analysis` •
 
 ---
 
