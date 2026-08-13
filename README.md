@@ -3,7 +3,6 @@
 A simple React-based web application that generates a **Student ID Card** by filling a basic form.
 
 The student data is stored and fetched using a **MockAPI** (no backend server required).
-
 ---
 
 ## 🚀 Features
@@ -13,8 +12,6 @@ The student data is stored and fetched using a **MockAPI** (no backend server re
 - 🖥️ Instant ID card generation
 - 🔀 Page navigation using React Router
 - 📱 Responsive design
-
-
 ---
 
 ## 📝 Form Fields
