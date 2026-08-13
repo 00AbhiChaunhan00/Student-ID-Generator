@@ -1,8 +1,7 @@
 # 🎓 Student ID Card Generator
 
 A simple React-based web application that generates a **Student ID Card** by filling a basic form.
-
-The student data is stored and fetched using a **MockAPI** (no backend server required)
+The student data is stored and fetched using a **MockAPI** (no backend server required).
 
 ---
 
