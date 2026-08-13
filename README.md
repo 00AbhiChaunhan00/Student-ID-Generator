@@ -11,7 +11,7 @@ The student data is stored and fetched using a **MockAPI** (no backend server re
 - 🔁 Store & fetch data using MockAPI
 - 🖥️ Instant ID card generation
 - 🔀 Page navigation using React Router
-- 📱 Responsive design.
+- 📱 Responsive design
 
 
 ---
